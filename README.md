@@ -1,3 +1,11 @@
+<img 
+  src="https://raw.githubusercontent.com/sizanpathan/sizanpathan/refs/heads/main/WhatsApp%20Image%202025-11-15%20at%2012.40.37_7ff61ac6.jpg"
+  width="1600"
+  height="300"
+  style="border-radius: 10px;"
+  alt="SIZAN KHAN GitHub Banner"
+/>
+
 <h1 align="center">Hi 👋, I'm SIZAN KHAN</h1>
 <h3 align="center">A passionate Fresher DevOps Engineer | Cloud & Automation Enthusiast from India</h3>
 
